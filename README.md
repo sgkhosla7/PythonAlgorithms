@@ -1,2 +1,2 @@
-# PythonAlgorithms
-All the core data-structures or algorithms implemented in Python
+# Algorithms in Python
+All the core data-structures and algorithms implemented in Python
